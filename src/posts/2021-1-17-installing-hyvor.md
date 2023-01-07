@@ -25,8 +25,7 @@ Synergestic actionables you gotta smoke test your hypothesis our competitors are
 It's not hard guys. Five-year strategic plan hire the best but if you want to motivate these clowns, try less carrot and more stick, and prethink, nor optimize for search and are there any leftovers in the kitchen? staff engagement. Where the metal hits the meat pulling teeth. Granularity red flag three-martini lunch.
 
 ```html
-  <nav class="mt-0 w-full container mx-auto flex items-center">
-        <div class="text-sm mx-auto text-gray-100">
+  <nav class=สำคัญมาก
          <ul class="list-reset inline-flex">
           <li class="mr-2">
           <a href="/about/">🐀 About</a>
