@@ -1,5 +1,5 @@
 ---
-title: 'บล็อคส่วนบุคคล'
+title: 'วิธีรับกิจกรรมเครดิตฟรี'
 layout: 'layouts/feed.njk'
 metaDesc: '11ty theme'
 imageURL: https://sorich168.com/wp-content/uploads/2022/08/%E2%80%94Pngtree%E2%80%94black-friday-black-gold-metal_931154.jpg
@@ -15,4 +15,4 @@ eleventyNavigation:
   title: 🏠 Home
   order: 1
 ---
-A notebook of sorts. Let's put a pin in everything. 
+คู่มือสำหรับ ผู้ที่ต้องการรับ กิจกรรมเครดิตฟรี อ่านรอบเดียวทำตามได้เลย. 
