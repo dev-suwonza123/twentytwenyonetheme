@@ -1,5 +1,5 @@
 ---
-title: Start Guide
+title: รับกิจกรรม
 description: A Quick Guide
 date: 2020-05-09
 imageURL: https://i.postimg.cc/4dJsryyT/2023-01-08-060029.png
