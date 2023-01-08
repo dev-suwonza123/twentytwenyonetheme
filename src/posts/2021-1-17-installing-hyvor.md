@@ -20,7 +20,7 @@ Synergestic actionables you gotta smoke test your hypothesis our competitors are
 
 > $$ \int_{a}^{b} x^2 \,dx $$
 
->Note for the previous submit: the devil should be on the left shoulder deploy red flag.
+>พื้นที่ใส่ข้อความในกรอบสีเหลือง.
 
 It's not hard guys. Five-year strategic plan hire the best but if you want to motivate these clowns, try less carrot and more stick, and prethink, nor optimize for search and are there any leftovers in the kitchen? staff engagement. Where the metal hits the meat pulling teeth. Granularity red flag three-martini lunch.
 
