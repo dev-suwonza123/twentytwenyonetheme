@@ -1,6 +1,6 @@
 ---
 title: รวมเว็บ เครดิตฟรี พร้อมโค้ด
-description: โดย.นภาพร นางรำ คณะตำบลและผองเพื่อน
+description: เครดิตฟรีล่าสุด พร้อมโค้ด
 imageURL: https://i.postimg.cc/wj7xwq6M/logo.png
 date: 2023-01-08
 tags:
